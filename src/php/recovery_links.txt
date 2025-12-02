@@ -1,0 +1,120 @@
+======================================================================
+DATA/HORA: 29/10/2025 22:22:30
+USUÁRIO: 
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 38fdaa4fceed67409c24cbd5416d93befef9ac94a4a1d3208316d4003d584a7f
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/reset_password.php?token=38fdaa4fceed67409c24cbd5416d93befef9ac94a4a1d3208316d4003d584a7f
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:22:38
+USUÁRIO: 
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 6c6cff8cf9e72b23a7b26c43fbcf8e1f4ee5fcdd92becc8411d60f2b44e21a8c
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/reset_password.php?token=6c6cff8cf9e72b23a7b26c43fbcf8e1f4ee5fcdd92becc8411d60f2b44e21a8c
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:22:48
+USUÁRIO: 
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 844685448b3fe2b6a857a1c2b2c48c3462d36135fc9aa31a421b7aeddf85d9ef
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/reset_password.php?token=844685448b3fe2b6a857a1c2b2c48c3462d36135fc9aa31a421b7aeddf85d9ef
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:25:21
+USUÁRIO: 
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: e00ee1fee8c4a0a6f9bb30a44a0be87bf028ea625869993ade8818402850cc2e
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/reset_password.php?token=e00ee1fee8c4a0a6f9bb30a44a0be87bf028ea625869993ade8818402850cc2e
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:28:20
+USUÁRIO: lucaspellegrinetti@icloud.com
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 386a51709a1bdd5574757b790f43242f21178600781fc8de0a09eec36602c80a
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/reset_password.php?token=386a51709a1bdd5574757b790f43242f21178600781fc8de0a09eec36602c80a
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:28:37
+USUÁRIO: lucaspellegrinetti@icloud.com
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: a59e23d975f8ef28751cf5c6840ff21b65571bb64f75b08e69853335e399f69d
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/reset_password.php?token=a59e23d975f8ef28751cf5c6840ff21b65571bb64f75b08e69853335e399f69d
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:30:15
+USUÁRIO: lucaspellegrinetti@icloud.com
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 3e14f5b319b544f018e0fd4cede5d7bf677b26016f2663beac039358498bbc24
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/src/php/reset_password.php?token=3e14f5b319b544f018e0fd4cede5d7bf677b26016f2663beac039358498bbc24
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:34:17
+USUÁRIO: lucaspellegrinetti@icloud.com
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 919904e2299931ca363d242eb0e84615804af73bf31794a2a1c854b96cdec3fa
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/src/php/reset_password.php?token=919904e2299931ca363d242eb0e84615804af73bf31794a2a1c854b96cdec3fa
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:35:03
+USUÁRIO: lucaspellegrinetti@icloud.com
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 81cce6348be326455725486ab944351790814f8c57fabaca466da7cc8e1bb2a3
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/src/php/reset_password.php?token=81cce6348be326455725486ab944351790814f8c57fabaca466da7cc8e1bb2a3
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:40:29
+USUÁRIO: lucaspellegrinetti@icloud.com
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 744fd70a8b8739971fd29fd3359a28b596f848cf63a190ebbeb0f19fe6e2c439
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/src/php/reset_password.php?token=744fd70a8b8739971fd29fd3359a28b596f848cf63a190ebbeb0f19fe6e2c439
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:40:49
+USUÁRIO: lucaspellegrinetti@icloud.com
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 3e7ec52087f7bf3cd17036ccd6d397fbb2b8aaf9789c8d234df6ba91279f5ac1
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/src/php/reset_password.php?token=3e7ec52087f7bf3cd17036ccd6d397fbb2b8aaf9789c8d234df6ba91279f5ac1
+EXPIRA EM: 1 hora
+======================================================================
+
+======================================================================
+DATA/HORA: 29/10/2025 22:41:29
+USUÁRIO: lucaspellegrinetti@icloud.com
+EMAIL: lucaspellegrinetti@icloud.com
+TOKEN: 983c1f6746254e6c076b95248fd897d7ae1615f2b559193a8a5d675de0b9313b
+LINK DE RECUPERAÇÃO:
+http://localhost/PrismaStore/src/php/reset_password.php?token=983c1f6746254e6c076b95248fd897d7ae1615f2b559193a8a5d675de0b9313b
+EXPIRA EM: 1 hora
+======================================================================
+
