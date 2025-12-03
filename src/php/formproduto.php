@@ -265,7 +265,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <h1><?= $form_titulo ?></h1>
         <div class="nav-links">
             <a href="produtos.php">← Voltar para a Lista</a>
-            <a href="Paineis.php">← Voltar para os Painéis</a>
+            <a href="Paineis.php">← Voltar para os Orçamentos</a>
         </div>
 
         <?php if (!empty($mensagem)): ?>

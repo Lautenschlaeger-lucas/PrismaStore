@@ -118,7 +118,7 @@ try {
             </a>
             <ul id="nav_list">
                 <li class="nav_item">
-                    <a href="../../PainelStore.html">Início</a>
+                    <a href="../../PainelStore.php">Início</a>
                 </li>
                 <?php if ($is_admin): ?>
                 <li class="nav_item">
